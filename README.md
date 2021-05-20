@@ -1,5 +1,3 @@
-Atualizado em 20 de Maio de 2021
-
 Projeto Digital Innovation One .NET
 Transferências Bancárias
 Este projeto foi proposto pela Digital Innovation One
@@ -15,3 +13,5 @@ PRINCIPAIS OBJETIVOS
 - Como pensar orientado a objetos;
 - Como modelar o seu domínio;
 - Utilizar Classes e Enums.
+
+Atualizado em 20 de Maio de 2021
